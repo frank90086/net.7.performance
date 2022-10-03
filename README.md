@@ -28,3 +28,6 @@ paket add BenchmarkDotNet --version 0.13.2
 #### [Array](https://github.com/frank90086/net.7.performance/tree/main/src/BenchmarkLogs/Array)
  - ![image](https://github.com/frank90086/net.7.performance/blob/main/src/RPlots/net._7.performance.array.barplot.png?raw=true)
  - ![image](https://github.com/frank90086/net.7.performance/blob/main/src/RPlots/net._7.performance.array.boxplot.png?raw=true)
+
+### Reference
+ - [Nick Chapsas - The INSANE performance boost of LINQ in .NET 7](https://www.youtube.com/watch?v=zCKwlgtVLnQ&t=212s)
