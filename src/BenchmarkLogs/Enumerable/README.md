@@ -1,3 +1,4 @@
+```cmd
 // Validating benchmarks:
 // ***** BenchmarkRunner: Start   *****
 // ***** Found 8 benchmark(s) in total *****
@@ -1073,3 +1074,5 @@ Run time: 00:02:33 (153.69 sec), executed benchmarks: 8
 
 Global total time: 00:03:13 (193.37 sec), executed benchmarks: 8
 // * Artifacts cleanup *
+
+```
