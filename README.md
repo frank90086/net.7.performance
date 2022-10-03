@@ -18,13 +18,13 @@ paket add BenchmarkDotNet --version 0.13.2
 
 ### Results
 #### [Enumerable](https://github.com/frank90086/net.7.performance/tree/main/src/BenchmarkLogs/Enumerable)
- - ![image](https://github.com/frank90086/net.7.performance/blob/main/src/RPlots/net._7.performance.enumerable.barplot.png)
- - ![image](https://github.com/frank90086/net.7.performance/blob/main/src/RPlots/net._7.performance.%20enumerable.boxplot.png)
+ - ![image](https://github.com/frank90086/net.7.performance/blob/main/src/RPlots/net._7.performance.enumerable.barplot.png?raw=true)
+ - ![image](https://github.com/frank90086/net.7.performance/blob/main/src/RPlots/net._7.performance.%20enumerable.boxplot.png?raw=true)
  
 #### [List](https://github.com/frank90086/net.7.performance/tree/main/src/BenchmarkLogs/List)
- - ![image](https://github.com/frank90086/net.7.performance/blob/main/src/RPlots/net._7.performance.list.barplot.png)
- - ![image](https://github.com/frank90086/net.7.performance/blob/main/src/RPlots/net._7.performance.list.boxplot.png)
+ - ![image](https://github.com/frank90086/net.7.performance/blob/main/src/RPlots/net._7.performance.list.barplot.png?raw=true)
+ - ![image](https://github.com/frank90086/net.7.performance/blob/main/src/RPlots/net._7.performance.list.boxplot.png?raw=true)
  
 #### [Array](https://github.com/frank90086/net.7.performance/tree/main/src/BenchmarkLogs/Array)
- - ![image](https://github.com/frank90086/net.7.performance/blob/main/src/RPlots/net._7.performance.array.barplot.png)
- - ![image](https://github.com/frank90086/net.7.performance/blob/main/src/RPlots/net._7.performance.array.boxplot.png)
+ - ![image](https://github.com/frank90086/net.7.performance/blob/main/src/RPlots/net._7.performance.array.barplot.png?raw=true)
+ - ![image](https://github.com/frank90086/net.7.performance/blob/main/src/RPlots/net._7.performance.array.boxplot.png?raw=true)
