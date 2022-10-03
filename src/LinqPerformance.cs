@@ -5,7 +5,8 @@ namespace net._7.performance;
 [Config(typeof(BenchmarkConfig))]
 public class LinqPerformance
 {
-    public int Size { get; set; } = 100;
+    [Params(10, 50, 100)]
+    public int Size { get; set; }
     private IEnumerable<int> _enumerableItems;
     private IEnumerable<int> _listItems;
     private IEnumerable<int> _arrayItems;
